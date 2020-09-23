@@ -69,10 +69,10 @@ export function HomePage({
       <div>
         <CenteredSection>
           <H2>
-            <FormattedMessage {...messages.startProjectHeader} />
+            Welcome to uGroop
           </H2>
           <p>
-            <FormattedMessage {...messages.startProjectMessage} />
+            Plan together. Travel better.
           </p>
         </CenteredSection>
         <Section>
